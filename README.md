@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasuOshiro
 - 👀 I’m interested in web sites
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
